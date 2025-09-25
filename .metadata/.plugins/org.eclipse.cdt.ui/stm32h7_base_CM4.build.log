@@ -1,0 +1,10 @@
+20:32:42 **** Incremental Build of configuration Debug for project stm32h7_base_CM4 ****
+make -j8 all 
+arm-none-eabi-size  stm32h7_base_CM4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4388	     16	   1568	   5972	   1754	stm32h7_base_CM4.elf
+Finished building: default.size.stdout
+ 
+
+20:32:43 Build Finished. 0 errors, 0 warnings. (took 503ms)
+
