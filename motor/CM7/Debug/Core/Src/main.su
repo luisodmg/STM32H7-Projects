@@ -1,0 +1,15 @@
+../Core/Src/main.c:73:6:Turning_SetAngle	24	static
+../Core/Src/main.c:86:6:setEscSpeed	24	static
+../Core/Src/main.c:102:6:stopCarEsc	4	static
+../Core/Src/main.c:108:6:moveForward	16	static
+../Core/Src/main.c:115:6:moveBackward	16	static
+../Core/Src/main.c:122:6:turn	16	static
+../Core/Src/main.c:128:6:stopCar	8	static
+../Core/Src/main.c:140:5:main	16	static
+../Core/Src/main.c:262:6:SystemClock_Config	120	static
+../Core/Src/main.c:322:13:MX_TIM13_Init	40	static
+../Core/Src/main.c:368:13:MX_TIM14_Init	40	static
+../Core/Src/main.c:414:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:462:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:483:6:MPU_Config	24	static
+../Core/Src/main.c:514:6:Error_Handler	4	static,ignoring_inline_asm
