@@ -1,0 +1,10 @@
+12:32:49 **** Incremental Build of configuration Debug for project stm32_h7_canbase_CM7 ****
+make -j8 all 
+arm-none-eabi-size  stm32_h7_canbase_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27904	    116	   2324	  30344	   7688	stm32_h7_canbase_CM7.elf
+Finished building: default.size.stdout
+ 
+
+12:32:50 Build Finished. 0 errors, 0 warnings. (took 1s.124ms)
+

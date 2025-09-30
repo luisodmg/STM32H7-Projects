@@ -3,7 +3,12 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
+		<item value="END 2"/>
+		<item value="UART_HandletypeDef huart3;"/>
 		<item value="while"/>
+		<item value="User Code begin"/>
+		<item value="main"/>
+		<item value="Error"/>
 		<item value="MX"/>
 	</list>
 </section>
